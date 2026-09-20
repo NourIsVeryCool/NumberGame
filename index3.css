@@ -1,0 +1,24 @@
+body {
+  background-color: #0a0a0a;
+   color: #f5f5f5;
+    font-family: Arial,
+     sans-serif;
+      margin-left: 20px;
+      margin-right: 100px;
+       padding: 1px;
+       font-size: 1em;
+}
+#lop{font-size: 0.30em;}
+button {
+  position: absolute;  
+  appearance: none;
+    background-color: rgb(15, 33, 198);
+    color: rgb(8, 8, 8);
+    border: 2px solid rgb(65, 63, 63);
+    padding: 8px 15px;
+    border-radius: 10px;
+    top:110px;
+    left:300px;
+}
+#hol{display: inline;
+    margin: 0;}
